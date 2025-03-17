@@ -23,10 +23,6 @@ Hey there! 🌟 I'm Juan Rael, a data engineer at TCS who thrives on wrangling d
 - Conquering the GitHub Foundations Certification *(prepare to be amazed by my Git skills!)*
 - Leveling up in **MLOps/AIOps** and becoming a **Data Architect** extraordinaire.
 
-#### Side Hustles (aka Projects):
-- **Maintenance Scheduler**: An API for generating maintenance schedules with Python and AWS *(because who wants to do that manually?)*.
-- **Enterprise Search Engine**: Designed a data ingestion pipeline that integrates with Elasticsearch *(search anything, instantly!)*.
-
 #### Education & Brain Sharpening:
 - **Bachelor's Degree**: Computer Science Engineering - Instituto Tecnológico Superior de Puerto Vallarta *(knowledge is power!)*
 - **Master's Degree**: Business Administration *(in progress)* - because well-roundedness is key!
