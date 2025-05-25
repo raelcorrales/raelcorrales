@@ -20,8 +20,9 @@ Hey there! 🌟 I'm Juan Rael, a data engineer at TCS who thrives on wrangling d
 - **Alliance IT LLC:** Created serverless applications and microservices for real-time solutions. Automated configuration management with Ansible and Jinja2.
 
 #### Current Quests (aka Goals):
-- Conquering the GitHub Foundations Certification *(prepare to be amazed by my Git skills!)*
-- Leveling up in **MLOps/AIOps** and becoming a **Data Architect** extraordinaire.
+- Conquering the **MongoDB Associate Developer Certification**. 
+- Leveling up in **MLOps/AIOps**.
+- Becoming a **Data Architect** extraordinaire.
 
 #### Education & Brain Sharpening:
 - **Bachelor's Degree**: Computer Science Engineering - Instituto Tecnológico Superior de Puerto Vallarta *(knowledge is power!)*
