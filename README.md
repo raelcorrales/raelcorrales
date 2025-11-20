@@ -1,40 +1,73 @@
-### Hi, I'm Rael: Data Jedi Master...*but seriously, Data Engineer*
+# 👋 Hi, I'm Rael — Data Engineer | Python Expert | Cloud Builder
 
-Hey there! 🌟 I'm Juan Rael, a data engineer at TCS who thrives on wrangling data with Python, NodeJS, and the power of the cloud *(AWS & GCP, you name it!)*. ☁️
+I design and build scalable data platforms using Python, Apache Beam, BigQuery, Dataflow, AWS Lambda, and modern cloud architecture patterns. I turn raw data into reliable, production-ready pipelines that power analytics, AI, and mission-critical business operations.
 
-#### In a Nutshell:
-- I build APIs that talk to data like it's their BFF.
-- I craft pipelines for AI projects that are smarter than the average bear.
-- I'm a serverless and CI/CD champion, making deployments smoother than butter.
+---
 
-#### Skills that Pay the Bills (and Fuel My Coffee Addiction):
-- **Programming Languages**: Python (my main squeeze), NodeJS, SQL *(all flavors!)*, MongoDB, MySQL, PostgreSQL
-- **Cloud Platforms**: AWS (Lambda, SNS) & GCP (Dataflow, BigQuery, Bigtable) - I speak fluent cloud!
-- **Frameworks**: Flask, Django *(backend buddies)*, Apache Beam, Express
-- **Tools & Technologies**: Terraform, Kubernetes *(orchestration extraordinaire!)*, Helm, Selenium *(testing the life out of things!)*, Generative AI *(the future is here!)*
-- **Version Control**: Git, GitHub, GitLab - *version control is my jam!*
+## 🚀 What I Do
+- Build **end-to-end ETL/ELT pipelines** on GCP & AWS.  
+- Develop **high-performance APIs** with Python (FastAPI, Flask, Django).  
+- Design **serverless architectures** using Lambda, SNS, and GCP Dataflow.  
+- Implement **automation and orchestration** using Terraform, Kubernetes, Helm, and CI/CD.  
+- Optimize data workflows for **AI, NLP, and enterprise search** initiatives.
 
-#### Battle Scars (aka Experience Highlights):
-- **Tata Consultancy Services (TCS):** Built APIs, optimized pipelines for NLP projects, and powered AI with smarter datasets.
-- **Coppel:** Migrated data to the cloud (GCP BigQuery, baby!), improved scalability by 60%, and automated deployments with CI/CD.
-- **Alliance IT LLC:** Created serverless applications and microservices for real-time solutions. Automated configuration management with Ansible and Jinja2.
+---
 
-#### Current Quests (aka Goals):
-- Conquering the **MongoDB Associate Developer Certification**. 
-- Leveling up in **MLOps/AIOps**.
-- Becoming a **Data Architect** extraordinaire.
+## 🧠 Technical Toolkit
 
-#### Education & Brain Sharpening:
-- **Bachelor's Degree**: Computer Science Engineering - Instituto Tecnológico Superior de Puerto Vallarta *(knowledge is power!)*
-- **Master's Degree**: Business Administration *(in progress)* - because well-roundedness is key!
+### **Languages**
+`Python` (primary) • NodeJS • SQL • MongoDB • PostgreSQL • MySQL  
 
-#### When I'm Not Wrangling Data:
-- Experimenting with **Generative AI** *(the future is here, I told you!)*.
-- Deep diving into all things data engineering *(because you can never learn enough!)*.
-- Exploring the cloud *(because it's a vast and exciting landscape!)*.
+### **Cloud**
+`AWS` (Lambda, SNS, DynamoDB) • `GCP` (Dataflow, BigQuery, Bigtable, Cloud Storage)
 
-#### Wanna Chat?:
-**Email**: raelcorrales@gmail.com *(hit me up!)*
-**Location**: Puerto Vallarta, Jalisco, Mexico *(sunshine and data, baby!)* ☀️
+### **Frameworks**
+FastAPI • Flask • Django • Apache Beam • Express
 
-**P.S.** *Check out my code repositories and let's connect!*
+### **DevOps / Infra**
+Terraform • Kubernetes • Helm • Docker • GitHub Actions • GitLab CI
+
+### **Specialties**
+ETL/ELT • Distributed Processing • Serverless • Data Modeling • Generative AI • Automation
+
+---
+
+## 🏢 Experience Highlights
+
+### **Tata Consultancy Services (TCS) — Assistant Consultant**
+- Built serverless APIs in AWS to automate multi-level business workflows.  
+- Developed pipelines for enterprise search, processing unstructured documents at scale.  
+- Migrated and optimized Python services, reducing latency and improving maintainability.
+
+### **Coppel — Data Engineer**
+- Migrated on-prem data pipelines to **BigQuery + Dataflow**, improving performance by **60%**.  
+- Maintained Kubernetes-based CI/CD for analytics workloads.  
+- Designed FastAPI services for data science automation and analytics distribution.
+
+### **Alliance IT LLC**
+- Built serverless microservices using AWS Lambda and DynamoDB.  
+- Automated configuration management using Python, Jinja2, and Ansible.  
+- Developed Apache Beam connectors and real-time ingestion pipelines for GCP.
+
+---
+
+## 🎯 Current Goals
+- Complete **MongoDB Associate Developer** certification.  
+- Deepen expertise in **MLOps / AIOps**.  
+- Advance toward a **Data Architect** career path.
+
+---
+
+## 🎓 Education
+- **B.S. in Computer Science Engineering** — ITS Puerto Vallarta  
+- **MBA (In progress)** — ITESO Mario Molina  
+
+---
+
+## 📬 Let's Connect
+📧 **Email:** raelcorrales@gmail.com  
+📍 **Location:** Puerto Vallarta, Jalisco, Mexico  
+
+---
+
+> “Data drives decisions. Well-designed systems drive impact.”  
